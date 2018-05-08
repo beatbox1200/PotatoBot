@@ -35,4 +35,4 @@ async def hello(ctx):
 async def bye(ctx):
     await bot.say("Goodbye, Potato Friend! I'll miss you!")
 
-bot.run("NDQzMTQxMTM1NDkwMzUxMTE0.DdJYiQ.gHGEejIJjoim8g-RjQ0Ny5hGrdw")
+bot.run(os.getenv("TOKEN"))
