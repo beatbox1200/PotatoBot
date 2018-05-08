@@ -1,5 +1,6 @@
 # PotatoBot by Beatbox1200. Based on the original project by Oipie54_thebuilder
 
+import os
 import discord
 from discord.ext import commands
 from discord.ext.commands import Bot
