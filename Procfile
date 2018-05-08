@@ -1,1 +1,1 @@
-worker: Potato.py
+worker: python Potato.py
