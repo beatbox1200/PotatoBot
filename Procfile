@@ -6,8 +6,6 @@ from discord.ext import commands
 from discord.ext.commands import Bot
 import asyncio
 import datetime
-import chalk
-
 
 bot = commands.Bot(command_prefix='Potato!')
 
